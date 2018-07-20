@@ -1,3 +1,3 @@
 ## Welcome to GitHub Pages
-crnn use Pytorch=0.4.0
+CRNN use Pytorch=0.4.0
 CTPN use Tensorflow=1.3.0
